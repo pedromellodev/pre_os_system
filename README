@@ -1,0 +1,13 @@
+# Pre-OS System
+
+Sistema desenvolvido para auxiliar na digitalização e organização de orçamentos comerciais relacionados a serviços de saneamento.
+
+A aplicação busca reduzir retrabalho, uso de papel e melhorar a padronização de informações antes da execução das ordens de serviço.
+
+# Stack
+
+- Python
+- Django
+- Django Ninja
+- React
+- SQLite
